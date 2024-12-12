@@ -7,8 +7,8 @@ The purpose of building this application was to demonstrate OOP (Object Oriented
 ## Table of Contents
 -[Installation](#installation)
 -[Usage](#usage)
--[Contributing](#contributing)
 -[License](#license)
+-[Contributing](#contributing)
 -[Questions](#questions)
 
 ## Installation
@@ -24,7 +24,7 @@ Create your vehicle by answering the questions. There is an option to build bran
 > "This application is distributed under the MIT, which means users are free to modify, distribute, and use the software for commercial purposes, as long as they include the original copyright notice and license terms in any derived works."
 
 ## Contributing
-We welcome contributions! Please fork the repository, create a new branch, make your changes, and submit a pull request. Make sure to follow our contribution guidelines. VS Code, Co-pilot, Inquirer(prompts), and google were used for creating this application. 
+We welcome contributions! Please fork the repository, create a new branch, make your changes, and submit a pull request. Make sure to follow our contribution guidelines. VS Code, Co-pilot, Inquirer, Typescript, and google were used for creating this application. 
 
 ## Questions
 For any questions, please contact me using the information below: 
