@@ -48,6 +48,7 @@ class Truck extends Vehicle implements AbleToTow {
     // TODO: Check if the vehicle's weight is less than or equal to the truck's towing capacity
     // TODO: If it is, log that the vehicle is being towed
     // TODO: If it is not, log that the vehicle is too heavy to be towed
+
     if (vehicleWeight <= this.towingCapacity) {
       console.log(`The ${vehicleMake} ${vehicleModel} is being towed.`)
     } else {
@@ -57,6 +58,9 @@ class Truck extends Vehicle implements AbleToTow {
   // TODO: If it is, log that the vehicle is being towed
   // TODO: If it is not, log that the vehicle is too heavy to be towed
   // TODO: Override the printDetails method from the Vehicle class
+
+
+
   // TODO: The method should call the printDetails method of the parent class
   // TODO: The method should log the details of the Truck
   // TODO: The details should include the VIN, make, model, year, weight, top speed, color, towing capacity, and wheels
