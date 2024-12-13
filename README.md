@@ -32,7 +32,7 @@ Download the application, run with `npm start`. This will display a list of ques
 > "This application is distributed under the `MIT`, which means users are free to modify, distribute, and use the software for commercial purposes, as long as they include the original copyright notice and license terms in any derived works."
 
 ## Contributing
-We welcome contributions! Please fork the repository, create a new branch, make your changes, and submit a pull request. Make sure to follow our contribution guidelines. `VS Code`, `VS-Co-pilot`, `Inquirer`, `Typescript`, and `google` were used for creating this application. 
+We welcome contributions! Please fork the repository, create a new branch, make your changes, and submit a pull request. Make sure to follow our contribution guidelines. `VS Code`, `VS-Co-pilot`, `Inquirer`, `Typescript`, and `google` were used for creating this application. Study group session with fellow peers helped with testing.
 
 ## Questions
 For any questions, please contact me using the information below: 
