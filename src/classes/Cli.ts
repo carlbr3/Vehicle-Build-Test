@@ -402,9 +402,9 @@ class Cli {
               const selectedVehicle = this.vehicles[i];
               //Is this a truck?
               if(selectedVehicle instanceof Truck){
-                //if so, call findVehicleToTow.
+                //if so, look for a vehicle to tow.
                 this.findVehicleToTow(selectedVehicle);
-                // get out of the function to avoid performingActions again
+                // return to avoid calling performActions again.
                 return; 
               }else {
                 console.log('Trucks are the only vehicle type that can tow other vehicles.')
@@ -418,13 +418,14 @@ class Cli {
               if (selectedVehicle instanceof Motorbike){
                 selectedVehicle.wheelie();
               }else {
-                console.log("Sorry. Only Motorbikes can do wheelies.")
+                console.log("Sorry. Only Motorbikes are able to do wheelies.")
               }
             }
           }
         }
         // TODO: add statements to perform the wheelie action only if the selected vehicle is a motorbike
         
+
         else if (answers.action === 'Select or create another vehicle') {
           // start the cli to return to the initial prompt if the user wants to select or create another vehicle
           this.startCli();
@@ -439,6 +440,8 @@ class Cli {
         }
       });
   }
+
+  
 
   // method to start the cli
   startCli(): void {

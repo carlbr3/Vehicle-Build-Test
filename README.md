@@ -15,11 +15,19 @@ The purpose of building this application was to demonstrate `OOP (Object Oriente
 Download the application, run with `npm start`. This will display a list of questions to build your vehicles.
 
 ## Usage
-Create your vehicle by answering the questions for type, `car`, `truck`, or `motorbike`. There is an option to build brand new vehicles or use any that are already submitted. Through `OOP (Object Oriented Programming)` that can provide an answer whether the vehicle can tow or do a wheelie based off using classes for `weight` and `wheel`. 
+>Create your vehicle by answering the questions for type, `car`, `truck`, or `motorbike`. 
+>
+>There is an option to build brand new vehicles or use any that are already submitted. 
+>
+>Through `OOP (Object Oriented Programming)` that can provide an answer whether the vehicle can tow or do a wheelie based off using classes for `weight` and `wheel`. Here is an example of how the builds of different types of vehicles perform their different functionalities. 
+>
+>[***Test Video***](https://drive.google.com/file/d/1WwAg_R4XFckuzblO1gcSrXEf-EmOKiFX/view)
 
 ## License 
-  
-[License](https://opensource.org/licenses/MIT)
+>![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+>
+>[License Link](https://opensource.org/licenses/MIT)
+>
 > ***NOTE***
 > "This application is distributed under the `MIT`, which means users are free to modify, distribute, and use the software for commercial purposes, as long as they include the original copyright notice and license terms in any derived works."
 
